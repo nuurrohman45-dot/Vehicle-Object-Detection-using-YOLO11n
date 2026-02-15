@@ -110,4 +110,4 @@ The trained model shows improved detection performance compared to the pretraine
 
 ## License
 
-This project is for educational purposes as part of the Computer Vision assignment.
+This project uses YOLOv11 from Ultralytics, licensed under AGPL-3.0.
