@@ -1,0 +1,8 @@
+path: C:\Users\HP\Documents\Bootcamp AI Engineering\Computer Vision\assignment\datasets
+train: images/train
+val: images/val
+nc: 3
+names:
+  0: bus
+  1: car
+  2: truck
