@@ -1,4 +1,4 @@
-path: C:\Users\HP\Documents\Bootcamp AI Engineering\Computer Vision\assignment\datasets
+path: ...\datasets
 train: images/train
 val: images/val
 nc: 3
